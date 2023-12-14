@@ -1,0 +1,9 @@
+{
+  "hideLayersAfterWidgetClosed": true,
+  "labelTasks": "Tugas",
+  "labelResults": "Hasil",
+  "showFilterLabel": true,
+  "criteiraLabel": "Kriteria kueri",
+  "spatialFilterLabel": "Filter spasial",
+  "queries": []
+}
